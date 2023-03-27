@@ -1,6 +1,6 @@
 {
-    "name": "qr_retriver",
-    "short_name": "qr_retriver",
+    "name": "QR Repository",
+    "short_name": "QR Repository",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
