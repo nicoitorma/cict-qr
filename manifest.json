@@ -1,6 +1,6 @@
 {
-    "name": "QR Repository",
-    "short_name": "QR Repository",
+    "name": "CICT QR Repo",
+    "short_name": "CICT QR Repo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
